@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: DotMessengerPlugin
+Bundle-SymbolicName: DotMessengerPlugin; singleton:=true
+Bundle-Version: 1.0.0
+Bundle-Activator: com.crudydot.messenger.plugin.DotMessengerPlugin
+Bundle-Vendor: cRudydot Inc.
+Require-Bundle: org.eclipse.ui,
+ org.eclipse.core.runtime
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6
+Bundle-ActivationPolicy: lazy
